@@ -8,3 +8,4 @@ Creating a social network using HBase as a Database. This is a REPL to fill this
 
 ## CONTENT
 ###Java code
+Commented code
