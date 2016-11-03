@@ -1,4 +1,4 @@
-# TP4 Habse
+# TP4 Hbase
 
 ## AUTHORS
 As mentioned in the AUTHORS file, authors are Christophe Bartier and Théo Grandin
